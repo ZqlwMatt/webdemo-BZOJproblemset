@@ -1,6 +1,6 @@
 ## BZOJ offline problemset
 
-This is a web demo of BZOJ delopyed on LYZOJ.
+This is a web demo of BZOJ delopyed on SYZOJ.
 
 ### Home page
 
